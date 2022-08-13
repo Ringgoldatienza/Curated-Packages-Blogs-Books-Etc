@@ -10,3 +10,6 @@
 
 ## General Statistical Models
 1. https://github.com/pachadotdev/fixest - The fixest package offers a family of functions to perform estimations with multiple fixed-effects in both an OLS and a GLM context. Please refer to the introduction for a walk-through.
+
+## Github Pages
+1. https://github.com/pachadotdev - Statistical methods to address specific policy-relevant questions, particularly in international trade, migration, investments and theoretically founded empirical work.
