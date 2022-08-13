@@ -1,7 +1,11 @@
-## Curated papers, articles, and blogs on data science & machine learning in production. 
+# Curated papers, articles, and blogs on data science & machine learning in production. 
 
+# General
 
-### R-Package
+## Github Pages
+1. https://github.com/eugeneyan - General curated papers, guides, and interviews on how to apply machine learning.
+
+# R-Package
 
 ## Times Series
 1. https://cran.r-project.org/web/packages/modeltime/modeltime.pdf - unlocks time series models and ML in one framework for use with the tidymodels ecosystem. It includes models such as ARIMA, Exponential Smoothing, and additional time series models from the 'forecast' and 'prophet' packages.
