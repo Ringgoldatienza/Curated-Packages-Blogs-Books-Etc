@@ -15,5 +15,9 @@
 ## General Statistical Models
 1. https://github.com/pachadotdev/fixest - The fixest package offers a family of functions to perform estimations with multiple fixed-effects in both an OLS and a GLM context. Please refer to the introduction for a walk-through.
 
+## Exploratory Data Analysis
+1. https://arxiv.org/pdf/1904.02101.pdf - The Landscape of R Packages for Automated Exploratory Data Analysis.
+
 ## Github Pages
 1. https://github.com/pachadotdev - Statistical methods to address specific policy-relevant questions, particularly in international trade, migration, investments and theoretically founded empirical work.
+
