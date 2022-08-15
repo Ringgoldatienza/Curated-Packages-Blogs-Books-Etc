@@ -1,4 +1,4 @@
-# Curated papers, articles, and blogs on data science & machine learning in production. 
+# Curated papers, articles, books and blogs on data science & machine learning in production. 
 
 # General
 
